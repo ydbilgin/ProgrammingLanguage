@@ -1,0 +1,21 @@
+Okul Adı: Bilkent, Şehir: Ankara, Ülke: Türkiye, Telefon Numarası: 03326667788, Öğrenci Sayısı: 12750, Kuruluş Yılı: 1980
+Okul Adı: Boğaziçi, Şehir: İstanbul, Ülke: Türkiye, Telefon Numarası: 02122345678, Öğrenci Sayısı: 15000, Kuruluş Yılı: 1863
+Okul Adı: ODTÜ, Şehir: Ankara, Ülke: Türkiye, Telefon Numarası: 03122235456, Öğrenci Sayısı: 21000, Kuruluş Yılı: 1956
+Okul Adı: Harvard, Şehir: Cambridge, Ülke: ABD, Telefon Numarası: 0016174951000, Öğrenci Sayısı: 21000, Kuruluş Yılı: 1636
+Okul Adı: Stanford, Şehir: Stanford, Ülke: ABD, Telefon Numarası: 0016507232300, Öğrenci Sayısı: 16000, Kuruluş Yılı: 1885
+Okul Adı: MIT, Şehir: Cambridge, Ülke: ABD, Telefon Numarası: 0016172531000, Öğrenci Sayısı: 11400, Kuruluş Yılı: 1861
+Okul Adı: Oxford, Şehir: Oxford, Ülke: İngiltere, Telefon Numarası: 00441865270100, Öğrenci Sayısı: 24000, Kuruluş Yılı: 1096
+Okul Adı: Cambridge, Şehir: Cambridge, Ülke: İngiltere, Telefon Numarası: 00441223331000, Öğrenci Sayısı: 19000, Kuruluş Yılı: 1209
+Okul Adı: ETH Zurich, Şehir: Zürih, Ülke: İsviçre, Telefon Numarası: 0041446321111, Öğrenci Sayısı: 21000, Kuruluş Yılı: 1855
+Okul Adı: Tsinghua, Şehir: Pekin, Ülke: Çin, Telefon Numarası: 00861062793001, Öğrenci Sayısı: 36000, Kuruluş Yılı: 1911
+Okul Adı: NUS, Şehir: Singapur, Ülke: Singapur, Telefon Numarası: 006562777000, Öğrenci Sayısı: 38000, Kuruluş Yılı: 1905
+Okul Adı: UBC, Şehir: Vancouver, Ülke: Kanada, Telefon Numarası: 0016048222211, Öğrenci Sayısı: 65000, Kuruluş Yılı: 1908
+Okul Adı: Melbourne, Şehir: Melbourne, Ülke: Avustralya, Telefon Numarası: 0061383444000, Öğrenci Sayısı: 49000, Kuruluş Yılı: 1853
+Okul Adı: Tokyo, Şehir: Tokyo, Ülke: Japonya, Telefon Numarası: 0081338131111, Öğrenci Sayısı: 28000, Kuruluş Yılı: 1877
+Okul Adı: Seoul, Şehir: Seul, Ülke: Güney Kore, Telefon Numarası: 0082238805114, Öğrenci Sayısı: 28000, Kuruluş Yılı: 1946
+Okul Adı: NTU, Şehir: Taipei, Ülke: Tayvan, Telefon Numarası: 00886233663300, Öğrenci Sayısı: 32000, Kuruluş Yılı: 1928
+Okul Adı: UCL, Şehir: Londra, Ülke: İngiltere, Telefon Numarası: 00442076791111, Öğrenci Sayısı: 42000, Kuruluş Yılı: 1826
+Okul Adı: Heidelberg, Şehir: Heidelberg, Ülke: Almanya, Telefon Numarası: 004962215420000, Öğrenci Sayısı: 29000, Kuruluş Yılı: 1386
+Okul Adı: Sorbonne, Şehir: Paris, Ülke: Fransa, Telefon Numarası: 0033140406200, Öğrenci Sayısı: 55000, Kuruluş Yılı: 1257
+Okul Adı: McGill2, Şehir: Montreal, Ülke: Kanada, Telefon Numarası: 0015143984455, Öğrenci Sayısı: 40000, Kuruluş Yılı: 1821
+Okul Adı: Ankara, Şehir: Ankara, Ülke: aaa, Telefon Numarası: asd, Öğrenci Sayısı: 2, Kuruluş Yılı: 1
